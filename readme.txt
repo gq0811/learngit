@@ -5,5 +5,4 @@ the forth line
 the fifth line
 i add a word
 i add a word again
-creating a new branch is simple
-
+creating a new branch is simple,and easy
